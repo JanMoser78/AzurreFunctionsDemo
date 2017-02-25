@@ -9,7 +9,7 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            var x = "hello2";
+            var x = "hello2";//noch ein kommentar
         }
     }
 }
